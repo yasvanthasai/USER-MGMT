@@ -1,0 +1,10 @@
+Hi {FULLNAME},<br/>
+<br/>
+
+Please find your temporary password below.
+<br/>
+Password : {PWD}<br/>
+<br/>
+Thanks,<br/>
+Yasvantha Sai<br/>
+

@@ -1,0 +1,12 @@
+Hi {FULLNAME},<br/>
+<br/>
+Your registration is almost completed.<br/>
+<br/>
+Please find your temporary password below<br/>
+<br/>
+Temporary Pwd : {TEMP-PWD}<br/>
+<br/>
+<a href="{URL}">Click here to unclok your account</a><br/>
+<br/>
+Thanks,<br/>
+Yasvantha Sai<br/>

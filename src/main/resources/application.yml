@@ -1,0 +1,25 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    password: springboot
+    url: jdbc:h2:mem:testdb
+    username: springboot
+  mvc:
+    pathmatch:
+      matching-strategy: ANT_PATH_MATCHER
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: yasvanthasai@gmail.com
+    password: Bharath123
+    properties:
+      mail:
+        smtp:
+          auth: true
+          startls:
+            enable: true
+          ssl:
+            trust: smtp.gmail.com
+
